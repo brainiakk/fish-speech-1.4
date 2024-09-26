@@ -1,0 +1,11 @@
+checkpoints
+outputs
+venv
+codes_0.npy
+austin.wav
+codes_1.npy
+elon.wav
+elon.mp3
+__pycache__
+.DS_Store
+.idea

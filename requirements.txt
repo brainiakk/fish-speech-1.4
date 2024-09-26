@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+pygame
+click
+hydra_core
+soundfile
+loguru
