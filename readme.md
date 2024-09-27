@@ -17,7 +17,7 @@ Fish Speech v1.4 is a leading TTS model trained on 700,000 hours of audio data a
 
 For more information, please visit the [Fish Speech GitHub repository](https://github.com/fishaudio/fish-speech).
 
-A demo is available at [Fish Audio](https://fish-audio.com/).
+A demo is available at [Fish Audio](https://fish.audio/).
 
 ## Requirements
 
